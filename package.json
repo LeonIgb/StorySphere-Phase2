@@ -1,0 +1,9 @@
+{
+  "name": "storysphere",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "expo-status-bar": "*",
+    "@expo/vector-icons": "*"
+  }
+}
